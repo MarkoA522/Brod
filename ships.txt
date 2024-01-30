@@ -1,0 +1,4 @@
+Tanker - ID: 1, Name: Tanker 1, Engine Type: DIESEL, Cargo Capacity: 5000.0
+Passenger - ID: 2, Name: Passenger 1, Engine Type: ELECTRIC, Passenger Capacity: 200
+Cargo - ID: 3, Name: Cargo 1, Engine Type: DIESEL, Cargo Capacity: 10000.0
+Military - ID: 4, Name: Military 1, Engine Type: REACTOR, Mission: Attack
